@@ -13,7 +13,7 @@
 "Close" = "Bezárás";
 "Double tap to open." = "Érintsd meg kétszer a megnyitáshoz.";
 "Untitled_Repo" = "Névtelen csomagtár";
-"OK" = "OK";
+"OK" = "";
 "Done" = "Kész";
 "Done_Editing" = "Kész";
 "More_Info" = "További információ";
@@ -24,7 +24,7 @@
 "Acknowledge" = "Megértettem";
 "Remove" = "Eltávolítás";
 "Sileo_Team" = "Sileo Team";
-"Warning" = "Warning";
+"Warning" = "";
 "Edit" = "Edit";
 "Why" = "Why";
 "Deny" = "Deny";

@@ -26,9 +26,9 @@
 "Sileo_Team" = "Sileo Ekibi";
 "Warning" = "Uyarı";
 "Edit" = "Düzenle";
-"Why" = "Why";
-"Deny" = "Deny";
-"Accept" = "Accept";
+"Why" = "Neden";
+"Deny" = "Reddet";
+"Accept" = "Kabul Et";
 
 // Popup messages
 "Background_App_Refresh" = "Arka Planda Uygulama Yenile";
@@ -101,7 +101,7 @@
 "Refreshing_Sources_Page" = "Kaynaklar Yenileniyor";
 "Package_Installed_Files_Page" = "Kurulu Dosyalar";
 "Refresh" = "Yenile";
-"Remove" = "Remove";
+"Remove" = "Kaldır";
 
 "All_Packages.Title" = "Tüm Paketler";
 "All_Packages.Cell_Subtitle" = "Kaynaklarınızdaki tüm paketleri görüntüleyin.";
@@ -236,11 +236,11 @@
 "View_Depiction" = "Açıklamaları Göster";
 
 "Copy_ID" = "ID'yi Kopyala";
-"Canister_Policy" = "Canister Privacy Policy";
-"Download_Analytics" = "Download Analytics";
-"Provided_Canister" = "Provided by Canister";
-"Data_Collected" = "Data collected is used to update the featured page and various recommendation sources.";
-"Change_Later" = "You can always change your choice later.";
-"Whats_Collected" = "What's Collected";
-"Non_Identifying" = "Only package and non-identifying device information is collected.";
-"Privacy_Policy" = "Privacy Policy";
+"Canister_Policy" = "Canister Gizlilik Politikası";
+"Download_Analytics" = "Analizleri İndirin";
+"Provided_Canister" = "Canister tarafından sağlanmıştır";
+"Data_Collected" = "Toplanan veriler, öne çıkan sayfayı ve çeşitli öneri kaynaklarını güncellemek için kullanılır.";
+"Change_Later" = "Seçiminizi daha sonra her zaman değiştirebilirsiniz.";
+"Whats_Collected" = "Neler Toplanıyor";
+"Non_Identifying" = "Yalnızca paket ve tanımlayıcı olmayan cihaz bilgileri toplanır.";
+"Privacy_Policy" = "Gizlilik Politikası";

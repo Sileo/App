@@ -9,7 +9,7 @@
  */
 
 "Unknown" = "Ha ocurrido un error desconocido.";
-"Error_Indicator" = "Error: %@";
+"Error_Indicator" = "";
 
 "No_Package.Title" = "No se pudo encontrar el paquete %@ en los repositorios actualmente instalados.";
 "No_Package.Body" = "Si el paquete es nuevo, espere a que Sileo termine de actualizarse, luego inténtelo nuevamente. Busque ayuda en línea.";
@@ -58,4 +58,4 @@
 "Purchase_Complete_Fail.Title" = "Imposible Completar la Compra";
 "Purchase_Auth_Complete_Fail.Title" = "Imposible Completar la Autenticación";
 
-"Couldnt_Import_Themes" = "Couldn't Import theme(s)";
+"Couldnt_Import_Themes" = "";

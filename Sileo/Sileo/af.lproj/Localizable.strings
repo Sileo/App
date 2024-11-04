@@ -12,7 +12,7 @@
 "About" = "Oor";
 "Close" = "Sluit";
 "Double tap to open." = "Dubbel tik om oop te maak.";
-"Untitled_Repo" = "Ongetitelde Repo";
+"Untitled_Repo" = "Titelose Bewaarplek";
 "OK" = "OK";
 "Done" = "Klaar";
 "Done_Editing" = "Klaar";
@@ -21,226 +21,226 @@
 "Share" = "Deel";
 "Delete" = "Skraap";
 "Cancel" = "Kanselleer";
-"Acknowledge" = "Acknowledge";
-"Remove" = "Remove";
-"Sileo_Team" = "Sileo Span";
+"Acknowledge" = "Erken";
+"Remove" = "Verwyder";
+"Sileo_Team" = "Sileo-Span";
 "Warning" = "Waarskuwing";
-"Edit" = "Edit";
-"Why" = "Why";
-"Deny" = "Deny";
-"Accept" = "Accept";
+"Edit" = "Verander";
+"Why" = "Hoekom";
+"Deny" = "Ontken";
+"Accept" = "Aanvaar";
 
 // Popup messages
-"Background_App_Refresh" = "Background App Refresh";
-"Background_App_Refresh_Message" = "For the best and fastest experience, it is recommended to enable background app refresh. You can also get notifications when your tweaks are updated!";
-"Upgrade_All_Shortcut_Processing_Message" = "Refreshing all sources and upgrading all packages...";
+"Background_App_Refresh" = "Agtergrondprogramverversing";
+"Background_App_Refresh_Message" = "Vir die beste en vinnigste ervaring, word dit aanbeveel om agtergrondprogramverversing te aktiveer. U kan ook kennisgewings ontvang wanneer U tweaks opgedateer word!";
+"Upgrade_All_Shortcut_Processing_Message" = "Verfris tans alle bronne en gradeer alle pakkette op...";
 
 // Statuses for queued/downloading packages. Shown under their name in the queue/status popup.
-"Installing_Package_Status" = "Installing";
+"Installing_Package_Status" = "Installeer";
 "Downloading_Package_Status" = "Aflaai";
-"Queued_Package_Status" = "Queued";
+"Queued_Package_Status" = "Bygevoeg na Waglys";
 "Ready_Status" = "Gereed";
-"Removal_Queued_Package_Status" = "Queued for Removal";
-"Download_Starting" = "Starting…";
-"Download_Progress" = "%@ van %@"; // first %@ = amount downloaded, second %@ = total to download
+"Removal_Queued_Package_Status" = "In Waglys vir Verwydering";
+"Download_Starting" = "Begin…";
+"Download_Progress" = "%@ uit %@"; // first %@ = amount downloaded, second %@ = total to download
 
-"Essential_Warning" = "The following packages are listed as essential/required: %@\n Removing these could cause irreversible damage to your device and may require you to restore. Only continue if you are certain you know what you're doing.";
+"Essential_Warning" = "Die volgende pakkette is gelys as noodsaaklik/vereis gelys: %@\n Die verwydering hiervan kan onomkeerbare skade aan U toestel veroorsaak en kan vereis dat U dit herstel. Gaan net voort as U seker is dat U weet wat U doen.";
 
-"Queue_Confirm_Button" = "Confirm";
-"Queue_Clear_Button" = "Clear Queue";
-"Queue_Cancel_Downloads" = "Cancel Downloads";
+"Queue_Confirm_Button" = "Bevestig";
+"Queue_Clear_Button" = "Vee Waglys Uit";
+"Queue_Cancel_Downloads" = "Kanselleer Aflaaie";
 
 "Package_Upgrade_Action" = "Gradeer Op";
 "Package_Reinstall_Action" = "Herinstalleer";
-"Package_Uninstall_Action" = "Uninstall";
+"Package_Uninstall_Action" = "Ontinstalleer";
 "Package_Modify_Action" = "Verander";
 "Package_Get_Action" = "Kry";
-"Package_Queue_Action" = "Queue";
+"Package_Queue_Action" = "Voeg by Waglys";
 "Package_Cancel_Action" = "Kanselleer";
-"Package_Paid" = "Paid";
+"Package_Paid" = "Betaald";
 
-"Package_Share_Action" = "Share Package…";
-"Package_Developer_Find_Action" = "More by this Developer";
-"Package_Support_Action" = "Support";
-"Package_Hold_Enable_Action" = "Ignore Future Updates";
-"Package_Hold_Disable_Action" = "Stop Ignoring Updates";
-"Package_Wishlist_Add" = "Add to Wishlist";
-"Package_Wishlist_Remove" = "Remove from Wishlist";
-"Wishlist" = "Wishlist";
+"Package_Share_Action" = "Deel Pakket…";
+"Package_Developer_Find_Action" = "Meer deur hierdie Ontwikkelaar";
+"Package_Support_Action" = "Ondersteun";
+"Package_Hold_Enable_Action" = "Ignoreer Toekomstige Opdaterings";
+"Package_Hold_Disable_Action" = "Hou op om Toekomstige Opdaterings te Ignoreer";
+"Package_Wishlist_Add" = "Voeg by Wenslys";
+"Package_Wishlist_Remove" = "Verwyder van Wenslys";
+"Wishlist" = "Wenslys";
 
-"No_New_Packages" = "No New Packages";
-"News_Check_Later" = "There are no new packages indexed yet. Come back in a few hours and you should see packages start showing up here as repos get updated.";
+"No_New_Packages" = "Geen Nuwe Pakkette nie";
+"News_Check_Later" = "Daar is nog geen nuwe pakkette geïndekseer nie. Kom terug oor 'n paar ure en U behoort te sien dat pakkette hier begin verskyn terwyl bewaarplekke opgedateer word.";
 
 // Headings for sections in the queue/status popup.
-"Queued_Install_Heading" = "Install";
-"Queued_Uninstall_Heading" = "Uninstall";
-"Queued_Update_Heading" = "Update";
-"Download_Errors_Heading" = "Errors";
+"Queued_Install_Heading" = "Installeer";
+"Queued_Uninstall_Heading" = "Verwyder";
+"Queued_Update_Heading" = "Opdateer";
+"Download_Errors_Heading" = "Foute";
 
-"Installed_Heading" = "Installed";
-"Updates_Heading" = "Updates";
-"Upgrade_All_Button" = "Upgrade All";
-"Package_Search.Placeholder" = "Search for Packages";
-"Sort_Name" = "Name";
-"Sort_Date" = "Date";
-"Sort_Install_Size" = "Installed Size";
-"Sort_By" = "Sort by:";
+"Installed_Heading" = "Geïnstalleer";
+"Updates_Heading" = "Opdaterings";
+"Upgrade_All_Button" = "Opgradeer Alles";
+"Package_Search.Placeholder" = "Soek vir Pakkette";
+"Sort_Name" = "Naam";
+"Sort_Date" = "Datum";
+"Sort_Install_Size" = "Geïnstalleerde Grootte";
+"Sort_By" = "Sorteer volgens:";
 
-"Package_Unavailable" = "Package Unavailable";
+"Package_Unavailable" = "Pakket Onbeskikbaar";
 "Package_By_Author" = "%@ by %@"; // first %@ = package name, second %@ = author name
 "By_Author" = "by %@"; // %@ = author name
-"Packages_By_Author" = "Packages by %@"; // %@ = author name
+"Packages_By_Author" = "Pakkette by %@"; // %@ = author name
 
-"Featured_Page" = "Featured";
-"News_Page" = "New";
-"Sources_Page" = "Sources";
-"Packages_Page" = "Packages";
-"Search_Page" = "Search";
-"Search_History" = "Recently Searched";
-"Clear_Search_History" = "Clear";
-"Refreshing_Sources_Page" = "Refreshing Sources";
-"Package_Installed_Files_Page" = "Installed Files";
-"Refresh" = "Refresh";
-"Remove" = "Remove";
+"Featured_Page" = "Uitgestal";
+"News_Page" = "Nuut";
+"Sources_Page" = "Bronne";
+"Packages_Page" = "Pakkette";
+"Search_Page" = "Soek";
+"Search_History" = "Onlangs Gesoek";
+"Clear_Search_History" = "Vee Uit";
+"Refreshing_Sources_Page" = "Verfris Bronne";
+"Package_Installed_Files_Page" = "Geïnstalleerde Lêers";
+"Refresh" = "Verfris";
+"Remove" = "Verwyder";
 
-"All_Packages.Title" = "All Packages";
-"All_Packages.Cell_Subtitle" = "See all packages from your sources";
+"All_Packages.Title" = "Alle Pakkette";
+"All_Packages.Cell_Subtitle" = "Sien alle pakkette uit U bronne";
 
-"All_Categories" = "All Categories";
-"Internal_Repo" = "Internal Repos";
-"External_Repo" = "External Repos";
-"Ignored Updates" = "Ignored Updates";
+"All_Categories" = "Alle Kategorieë";
+"Internal_Repo" = "Interne Bewaarplekke";
+"External_Repo" = "Eksterne bewaarplekke";
+"Ignored Updates" = "Geïgnoreerde Opdaterings";
 
-"Repos" = "Repositories";
-"Repo" = "Repository";
+"Repos" = "Bewaarplekke";
+"Repo" = "Bewaarplek";
 
-"Add_Source.Title" = "Add Source";
-"Add_Source.Body" = "Add APT URL";
-"Add_Source.Button.Add" = "Add Source";
-"Add_Dist_Repo" = "Add Dist Repo";
-"Incorrect_Repo" = "%@ does not appear to be a valid repo⁉️ The repo may be offline or you may have entered it incorrectly. Do you want to add it anyway?";
+"Add_Source.Title" = "Voeg Bron By";
+"Add_Source.Body" = "Voeg APT URL By";
+"Add_Source.Button.Add" = "Voeg Bron By";
+"Add_Dist_Repo" = "Voeg Verre Bewaarplek By";
+"Incorrect_Repo" = "%@ blyk nie 'n geldige repo te wees nie⁉️ Die repo mag dalk vanlyn wees of U mag dit dalk verkeerd ingevoer het. Wil U dit in elk geval byvoeg?";
 
-"Auto_Add_Pasteboard_Sources.Button.Manual" = "Enter Manually";
+"Auto_Add_Pasteboard_Sources.Button.Manual" = "Voer Handmatig In";
 
-"Untitled_Form" = "Untitled Form";
-"Form_Submitted.Default_Title" = "Submitted Form";
-"Form_Submitted.Default_Body" = "The form was submitted successfully.";
+"Untitled_Form" = "Titelose Vorm";
+"Form_Submitted.Default_Title" = "Ingediende Vorm";
+"Form_Submitted.Default_Body" = "Die vorm is suksesvol ingedien.";
 
-"Web_Depiction_Deprecated_Warning" = "Web View depictions are deprecated. Please contact the repo maintainer about updating to native depictions.";
+"Web_Depiction_Deprecated_Warning" = "Webaansig-uitbeeldings is afgekeer. Kontak asseblief die bewaarplekonderhouer oor opdatering na inheemse uitbeeldings.";
 
-"Package_Details_Tab" = "Details";
-"Package_Changelog_Tab" = "Changelog";
-"Package_No_Description_Available" = "No description is available for this package.";
-"Package_Changelogs_Unavailable" = "Changelogs are not available for this package.";
+"Package_Details_Tab" = "Besonderhede";
+"Package_Changelog_Tab" = "Veranderingslogboek";
+"Package_No_Description_Available" = "Geen beskrywing is beskikbaar vir hierdie pakket nie.";
+"Package_Changelogs_Unavailable" = "Veranderingslogboeke is nie beskikbaar vir hierdie pakket nie.";
 
-"Installed_Package_Header" = "Installed Package";
-"Installed_Packages" = "Installed Packages";
-"Version" = "Version";
-"Show_Package_Contents_Button" = "Show Package Contents";
+"Installed_Package_Header" = "Geïnstalleerde Pakket";
+"Installed_Packages" = "Geïnstalleerde Pakkette";
+"Version" = "Weergawe";
+"Show_Package_Contents_Button" = "Wys Pakket-Inhoud";
 
-"Licenses_Page_Title" = "Licenses";
-"Alternate_Icon_Title" = "Alternate Icons";
+"Licenses_Page_Title" = "Lisensies";
+"Alternate_Icon_Title" = "Alternatiewe Ikone";
 
-"Settings_Payment_Provider_Heading" = "Payment Providers";
-"Settings_Translations_Heading" = "Translations";
+"Settings_Payment_Provider_Heading" = "Betalingsverskaffers";
+"Settings_Translations_Heading" = "Vertalings";
 
-"Settings_Payment_Provider.Purchases_Heading" = "Purchases";
-"Settings_Payment_Provider.No_Purchases" = "No purchases";
-"Authenticate_To_Purchase" = "Authenticate to complete your purchase";
+"Settings_Payment_Provider.Purchases_Heading" = "Aankope";
+"Settings_Payment_Provider.No_Purchases" = "Geen aankope nie";
+"Authenticate_To_Purchase" = "Verifeer om U aankoop te voltooi";
 
-"Settings" = "Settings";
-"Settings_Page_Title" = "Settings";
-"Dark_Mode_Toggle" = "Dark Mode";
-"Theme" = "Theme";
-"Tint_Color" = "Tint Color";
-"Reset_Tint_Color" = "Reset Tint Color";
-"Auto_Complete_Queue" = "Auto Complete Queue";
-"Show_Search_History" = "Show Search History";
-"Auto_Confirm_Upgrade_All_Shortcut" = "Auto Confirm Upgrade All Shortcut";
-"Swipe_Actions" = "Swipe Actions";
-"Show_Provisional" = "Show Packages From Canister";
-"Show_Ignored_Updates" = "Show Ignored Updates";
-"Developer_Mode" = "Developer Mode";
-"Pog_Developer" = "You are now a developer!";
-"Developer_Mode_Explain" = "Developer Mode disables the HTTPS requirement of the Payment API.";
-"Auto_Refresh_Sources" = "Auto Refresh Sources";
-"iCloud_Profile" = "Show iCloud Picture in Featured";
-"Cache_Size" = "Cache Size";
-"Clear_Cache" = "Clear Network Cache";
-"Clear_Cache_Message" = "Do you want to clear the network cache? This will free %@";
-"Language" = "Language";
-"Use_System_Language" = "Use System Language";
-"Apply_Changes" = "Apply Changes";
-"Apply_Changes_Confirm" = "Applying Changes will require a restart of Sileo";
-"Help_Translate" = "Help Translate Sileo";
-"Always_Show_Install_Log" = "Always Show Install Log";
-"Auto_Show_Queue" = "Show Queue on Upgrade All";
+"Settings" = "Instellings";
+"Settings_Page_Title" = "Instellings";
+"Dark_Mode_Toggle" = "Donkermodus";
+"Theme" = "Tema";
+"Tint_Color" = "Tintkleur";
+"Reset_Tint_Color" = "Stel Tintkleur Terug";
+"Auto_Complete_Queue" = "Outo-Voltooi Waglys";
+"Show_Search_History" = "Wys Soekgeskiedenis";
+"Auto_Confirm_Upgrade_All_Shortcut" = "Bevestig Outomaties Opgradeer-Alles Kortpad";
+"Swipe_Actions" = "Swiephandelinge";
+"Show_Provisional" = "Wys Pakkette Uit Canister";
+"Show_Ignored_Updates" = "Wys Geïgnoreerde Opdaterings";
+"Developer_Mode" = "Ontwikkelaarmodus";
+"Pog_Developer" = "U is nou 'n ontwikkelaar!";
+"Developer_Mode_Explain" = "Ontwikkelaarmodus deaktiveer die HTTPS-vereiste van die Payment API.";
+"Auto_Refresh_Sources" = "Herlaai Bronne Outomaties";
+"iCloud_Profile" = "Wys iCloud-Prent in Uitgestalte";
+"Cache_Size" = "Kasgrootte";
+"Clear_Cache" = "Vee Netwerkkas Uit";
+"Clear_Cache_Message" = "Wil U die netwerkkas uitvee? Dit sal %@ bevry";
+"Language" = "Taal";
+"Use_System_Language" = "Gebruik Stelseltaal";
+"Apply_Changes" = "Pas Veranderinge Toe";
+"Apply_Changes_Confirm" = "Die Toepassing van Veranderinge sal 'n herbegin van Sileo benodig";
+"Help_Translate" = "Help om Sileo te Vertaal";
+"Always_Show_Install_Log" = "Wys Altyd Installasielogboek";
+"Auto_Show_Queue" = "Wys Waglys op Gradeer Alles Op";
 
-"Sileo_Light" = "Sileo Light";
-"Sileo_Dark" = "Sileo Dark";
-"Sileo_Adaptive" = "Sileo Adaptive";
-"System" = "System";
-"Theme_Settings" = "Theme Settings";
+"Sileo_Light" = "Sileo Lig";
+"Sileo_Dark" = "Sileo Donker";
+"Sileo_Adaptive" = "Sileo Aanpasbaar";
+"System" = "Stelsel";
+"Theme_Settings" = "Tema-Instellings";
 
-"Manage_Themes" = "Manage Themes";
-"Create_Theme" = "Create Theme";
-"Import_Themes" = "Import Themes";
-"Theme_Name" = "Theme name";
-"Export_Themes" = "Export Themes";
+"Manage_Themes" = "Bestuur Temas";
+"Create_Theme" = "Skep Tema";
+"Import_Themes" = "Voer Temas In";
+"Theme_Name" = "Temanaam";
+"Export_Themes" = "Voer Temas Uit";
 
-"Background_Color" = "Background Color";
-"Secondary_Background_Color" = "Secondary Background Color";
-"Label_Color" = "Label Color";
-"Highlight_Color" = "Highlight Color";
-"Seperator_Color" = "Seperator Color";
-"Header_Color" = "Header Color";
-"Banner_Color" = "Banner Color";
+"Background_Color" = "Agtergrondkleur";
+"Secondary_Background_Color" = "Sekondêre Agtergrondkleur";
+"Label_Color" = "Etiketkleur";
+"Highlight_Color" = "Uitmerkkleur";
+"Seperator_Color" = "Skeierkleur";
+"Header_Color" = "Kopkleur";
+"Banner_Color" = "Banierkleur";
 
 
-"Cydia_Sign_In" = "Sign in to Cydia Store";
-"Payment_Provider_Signed_In" = "Signed in";
-"Payment_Provider_Signed_In_With_Name" = "Signed in as %@"; // %@ = user's name
-"Payment_Provider_Sign_Out" = "Sign out";
-"Payment_Provider_Sign_Out_Confirm.Title" = "Sign out of %@"; // %@ = payment provider name
-"Payment_Provider_Sign_Out_Confirm.Body" = "You will no longer be able to download your purchased packages until you sign back in.";
+"Cydia_Sign_In" = "Teken in by Cydia Store";
+"Payment_Provider_Signed_In" = "Ingeteken";
+"Payment_Provider_Signed_In_With_Name" = "Ingeteken as %@"; // %@ = user's name
+"Payment_Provider_Sign_Out" = "Teken uit";
+"Payment_Provider_Sign_Out_Confirm.Title" = "Teken uit by %@"; // %@ = payment provider name
+"Payment_Provider_Sign_Out_Confirm.Body" = "U sal nie meer U gekoopte pakkette kan aflaai totdat U weer inteken nie.";
 
-"Show_Install_Details" = "Show Details";
-"Hide_Install_Details" = "Hide Details";
-"Open_In_Filza" = "Open in Filza";
-"Copy_Path" = "Copy Path";
+"Show_Install_Details" = "Wys Besonderhede";
+"Hide_Install_Details" = "Versteek besonderhede";
+"Open_In_Filza" = "Maak Oop in Filza";
+"Copy_Path" = "Kopieer Pad";
 
-"After_Install_Relaunch" = "Restart Sileo";
-"After_Install_Respring" = "Restart SpringBoard";
-"After_Install_Reboot" = "Reboot Device";
-"After_Install_Relaunch_Later" = "Restart Sileo Later";
-"After_Install_Respring_Later" = "Restart SpringBoard Later";
-"After_Install_Reboot_Later" = "Reboot Device Later";
+"After_Install_Relaunch" = "Herbegin Sileo";
+"After_Install_Respring" = "Herbegin SpringBoard";
+"After_Install_Reboot" = "Herlaai Toestel";
+"After_Install_Relaunch_Later" = "Herbegin Sileo Later";
+"After_Install_Respring_Later" = "Herbegin SpringBoard Later";
+"After_Install_Reboot_Later" = "Herlaai Toestel Later";
 
-"Dangerous_Repo.Title" = "Dangerous Repo";
-"Dangerous_Repo.Body" = "You are attempting to add a repository that is known to be harmful for reasons such as piracy, illegal content, or malware.\n\nRepositories marked as harmful often distribute software with unexpected effects, whether in the form of paid packages for free or other malicious packages. This can have lasting effects on your device and privacy, even sometimes affecting your ability to jailbreak. We recommend that you exercise extreme caution to avoid harmful software.";
-"Dangerous_Repo.Continue" = "I accept the risks, continue";
-"Dangerous_Repo.Cancel" = "Take me back to safety";
-"Dangerous_Repo.Last_Chance.Title" = "Add Harmful Repo?";
-"Dangerous_Repo.Last_Chance.Body" = "Dangerous repositories can have devastating effects on your ability to use your device or jailbreak. We strongly recommend that you go back for your own safety. Are you sure you want to add %@?"; // %@ = repo url
-"Dangerous_Repo.Last_Chance.Continue" = "Continue";
-"Dangerous_Repo.Last_Chance.Cancel" = "Go back";
+"Dangerous_Repo.Title" = "Gevaarlike Bewaarplek";
+"Dangerous_Repo.Body" = "U probeer om 'n bewaarplek by te voeg wat bekend is dat dit skadelik is vir redes soos piracy, onwettige inhoud, of wanware. \n\nBewaarplekke wat skadelik gemerk is, versprei dikwels sagteware met onverwagte effekte, hetsy in die vorm van gratis betaalde pakkette of ander kwaadwillige pakkette. Dit kan blywende gevolge op U toestel en privaatheid hê, selfs soms beïnvloed U vermoë om te jailbreak. Ons beveel aan dat U uiters versigtig is om skadelike sagteware te vermy.";
+"Dangerous_Repo.Continue" = "Ek aanvaar die risiko's, gaan voort";
+"Dangerous_Repo.Cancel" = "Neem my terug na veiligheid";
+"Dangerous_Repo.Last_Chance.Title" = "Voeg Skadelike Bewaarplek By?";
+"Dangerous_Repo.Last_Chance.Body" = "Gevaarlike bewaarplekke kan verwoestende nagevolge hê op U vermoë om U toestel te gebruik of jailbreak. Ons beveel sterk aan dat U teruggaan vir U eie veiligheid. Is U seker U wil %@ bywoeg?"; // %@ = repo url
+"Dangerous_Repo.Last_Chance.Continue" = "Gaan voort";
+"Dangerous_Repo.Last_Chance.Cancel" = "Gaan terug";
 
 // All export-based strings
-"Export" = "Export";
-"Export_Packages" = "Would you like to export your packages list? This will copy all package names and their versions to your clipboard.";
-"Export_Sources" = "Would you like to export your source list? This will copy all source URLs to your clipboard.";
-"Export_Yes" = "Yes, copy.";
-"Export_No" = "No, cancel.";
+"Export" = "Voer Uit";
+"Export_Packages" = "Wil U U pakkettelys uitvoer? Dit sal alle pakketname en hul weergawes na U knipbord kopieer.";
+"Export_Sources" = "Wil U U bronnelys uitvoer? Dit sal alle bron-URL'e na U knipbord kopieer.";
+"Export_Yes" = "Ja, kopieer.";
+"Export_No" = "Nee, kanselleer.";
 
 // Depcitions
-"View_Depiction" = "View Depiction";
+"View_Depiction" = "Wys Uitbeelding";
 
-"Copy_ID" = "Copy ID";
-"Canister_Policy" = "Canister Privacy Policy";
-"Download_Analytics" = "Download Analytics";
-"Provided_Canister" = "Provided by Canister";
-"Data_Collected" = "Data collected is used to update the featured page and various recommendation sources.";
-"Change_Later" = "You can always change your choice later.";
-"Whats_Collected" = "What's Collected";
-"Non_Identifying" = "Only package and non-identifying device information is collected.";
-"Privacy_Policy" = "Privacy Policy";
+"Copy_ID" = "Kopieer ID";
+"Canister_Policy" = "Canister Privaatheidsbeeld";
+"Download_Analytics" = "Laai Analise Af";
+"Provided_Canister" = "Verskaf deur Canister";
+"Data_Collected" = "Data wat ingesamel word, word gebruik om die uitgestalde bladsy en verskeie aanbevelingsbronne op te dateer.";
+"Change_Later" = "U kan altyd U keuse later verander.";
+"Whats_Collected" = "Wat Word Versamel";
+"Non_Identifying" = "Slegs pakket- en nie-identifiserende toestelinligting word ingesamel.";
+"Privacy_Policy" = "Privaatheidsbeleid";

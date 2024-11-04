@@ -26,9 +26,9 @@
 "Sileo_Team" = "تیمی sileo";
 "Warning" = "ئاگاداری";
 "Edit" = "دەستکاری کردن";
-"Why" = "Why";
-"Deny" = "Deny";
-"Accept" = "Accept";
+"Why" = "بۆچی";
+"Deny" = "نکۆڵی کردن";
+"Accept" = "رازیبوون";
 
 // Popup messages
 "Background_App_Refresh" = "نوێکردنەوەی ئەپی پاشبنەما";
@@ -101,7 +101,7 @@
 "Refreshing_Sources_Page" = "نوێکردنەوەی سەرچاوەکان";
 "Package_Installed_Files_Page" = "فایلە دامەزرێندراوەکان";
 "Refresh" = "نوێکردنەوە";
-"Remove" = "Remove";
+"Remove" = "سرینەوە";
 
 "All_Packages.Title" = "هەموو پاکێجەکان";
 "All_Packages.Cell_Subtitle" = "بینینی هەموو ئەو پاکێجانەی لە سەرچاوەکانت هەیە";
@@ -236,11 +236,11 @@
 "View_Depiction" = "بینینی وەسف";
 
 "Copy_ID" = "لەبەرگرتنەوەی ID";
-"Canister_Policy" = "Canister Privacy Policy";
-"Download_Analytics" = "Download Analytics";
-"Provided_Canister" = "Provided by Canister";
-"Data_Collected" = "Data collected is used to update the featured page and various recommendation sources.";
-"Change_Later" = "You can always change your choice later.";
-"Whats_Collected" = "What's Collected";
-"Non_Identifying" = "Only package and non-identifying device information is collected.";
-"Privacy_Policy" = "Privacy Policy";
+"Canister_Policy" = "سیاسەتی پاراستنی نهێنی کانستەر";
+"Download_Analytics" = "شیکاری داونلۆد";
+"Provided_Canister" = "دابینکراوە لەلایەن  کانستەر";
+"Data_Collected" = "ئەو زانیاریانەی کە کۆکراونەتەوە بۆ نوێکردنەوەی لاپەڕەی تایبەتمەند و سەرچاوە جۆراوجۆرەکانی پێشنیارکردن بەکاردەهێنرێن.";
+"Change_Later" = "هەمیشە دەتوانیت دواتر هەڵبژاردنەکەت بگۆڕیت.";
+"Whats_Collected" = "چی کۆکراوەتەوە";
+"Non_Identifying" = "تەنها زانیارییەکانی پاکێج و ئامێرە ناناسێنەرەکان کۆدەکرێنەوە.";
+"Privacy_Policy" = "سیاسەتی پاراستنی نهێنی";

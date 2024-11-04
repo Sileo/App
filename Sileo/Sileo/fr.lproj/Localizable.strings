@@ -24,11 +24,11 @@
 "Acknowledge" = "J'ai compris";
 "Remove" = "Supprimer";
 "Sileo_Team" = "Équipe Sileo";
-"Warning" = "Warning";
-"Edit" = "Edit";
-"Why" = "Why";
-"Deny" = "Deny";
-"Accept" = "Accept";
+"Warning" = "Avertissement";
+"Edit" = "Modifier";
+"Why" = "Pourquoi";
+"Deny" = "Refuser";
+"Accept" = "Accepter";
 
 // Popup messages
 "Background_App_Refresh" = "Actualiser (arrière-plan)";
@@ -44,11 +44,11 @@
 "Download_Starting" = "Le téléchargement commence…";
 "Download_Progress" = "%@ sur %@"; // first %@ = amount downloaded, second %@ = total to download
 
-"Essential_Warning" = "The following packages are listed as essential/required: %@\n Removing these could cause irreversible damage to your device and may require you to restore. Only continue if you are certain you know what you're doing.";
+"Essential_Warning" = "Les paquets suivants sont répertoriés comme essentiels/requis : %@\n La suppression de ces paquets pourrait causer des dommages irréversibles à votre appareil et vous obliger à le restaurer. Ne continuez que si vous êtes certain de savoir ce que vous faites.";
 
 "Queue_Confirm_Button" = "Confirmer";
 "Queue_Clear_Button" = "Supprimer la file d'attente";
-"Queue_Cancel_Downloads" = "Cancel Downloads";
+"Queue_Cancel_Downloads" = "Annuler les téléchargements";
 
 "Package_Upgrade_Action" = "Mettre à jour";
 "Package_Reinstall_Action" = "Réinstaller";
@@ -68,8 +68,8 @@
 "Package_Wishlist_Remove" = "Enlever de la liste d'intérêt";
 "Wishlist" = "Liste d'intérêt";
 
-"No_New_Packages" = "No New Packages";
-"News_Check_Later" = "There are no new packages indexed yet. Come back in a few hours and you should see packages start showing up here as repos get updated.";
+"No_New_Packages" = "Aucun nouveau paquet";
+"News_Check_Later" = "Il n'y a pas encore de nouveaux paquets indexés. Revenez dans quelques heures et vous devriez voir des paquets apparaître ici au fur et à mesure que les dépôts sont mis à jour.";
 
 // Headings for sections in the queue/status popup.
 "Queued_Install_Heading" = "Installer";
@@ -83,7 +83,7 @@
 "Package_Search.Placeholder" = "Chercher un paquet";
 "Sort_Name" = "Nom";
 "Sort_Date" = "Date";
-"Sort_Install_Size" = "Installed Size";
+"Sort_Install_Size" = "Taille de l'installation";
 "Sort_By" = "Trier par :";
 
 "Package_Unavailable" = "Paquet indisponible";
@@ -96,12 +96,12 @@
 "Sources_Page" = "Sources";
 "Packages_Page" = "Paquets";
 "Search_Page" = "Rechercher";
-"Search_History" = "Recently Searched";
-"Clear_Search_History" = "Clear";
+"Search_History" = "Récemment recherché";
+"Clear_Search_History" = "Effacer";
 "Refreshing_Sources_Page" = "Mise à jour des sources";
 "Package_Installed_Files_Page" = "Fichiers installés";
 "Refresh" = "Rafraîchir";
-"Remove" = "Remove";
+"Remove" = "Supprimer";
 
 "All_Packages.Title" = "Tous les paquets";
 "All_Packages.Cell_Subtitle" = "Voir tous les paquets de vos sources";
@@ -112,13 +112,13 @@
 "Ignored Updates" = "Mises à jour ignorées";
 
 "Repos" = "Sources";
-"Repo" = "Repository";
+"Repo" = "Dépôt";
 
 "Add_Source.Title" = "Ajouter la source";
 "Add_Source.Body" = "Ajouter l'addresse APT";
 "Add_Source.Button.Add" = "Ajouter la source";
-"Add_Dist_Repo" = "Add Dist Repo";
-"Incorrect_Repo" = "%@ does not appear to be a valid repo⁉️ The repo may be offline or you may have entered it incorrectly. Do you want to add it anyway?";
+"Add_Dist_Repo" = "Ajouter un dépôt Dist";
+"Incorrect_Repo" = "%@ ne semble pas être une adresse valide repo⁉️ Le repo est peut-être hors ligne ou vous l'avez peut-être saisi de manière incorrecte. Voulez-vous quand même l'ajouter ?";
 
 "Auto_Add_Pasteboard_Sources.Button.Manual" = "Entrer manuellement";
 
@@ -134,7 +134,7 @@
 "Package_Changelogs_Unavailable" = "Les changements ne sont pas disponibles pour ce paquet.";
 
 "Installed_Package_Header" = "Paquet installé";
-"Installed_Packages" = "Installed Packages";
+"Installed_Packages" = "Paquets installés";
 "Version" = "Version";
 "Show_Package_Contents_Button" = "Afficher le contenu du paquet";
 
@@ -146,7 +146,7 @@
 
 "Settings_Payment_Provider.Purchases_Heading" = "Achats";
 "Settings_Payment_Provider.No_Purchases" = "Aucun achat";
-"Authenticate_To_Purchase" = "Authenticate to complete your purchase";
+"Authenticate_To_Purchase" = "Authentifiez-vous pour compléter votre achat";
 
 "Settings" = "Paramètres";
 "Settings_Page_Title" = "Paramètres";
@@ -155,7 +155,7 @@
 "Tint_Color" = "Couleur d'accentuation";
 "Reset_Tint_Color" = "Restaurer la couleur d'accentuation";
 "Auto_Complete_Queue" = "File d'attente à saisie automatique";
-"Show_Search_History" = "Show Search History";
+"Show_Search_History" = "Afficher l'historique de recherche";
 "Auto_Confirm_Upgrade_All_Shortcut" = "Confirmation automatique lors de la mise à jour de tous les paquets";
 "Swipe_Actions" = "Actions de balayage";
 "Show_Provisional" = "Afficher les paquets trouvés sur Canister";
@@ -168,13 +168,13 @@
 "Cache_Size" = "Taille du cache";
 "Clear_Cache" = "Vider le cache réseau";
 "Clear_Cache_Message" = "Voulez-vous vider le cache réseau ? Cela libérera %@";
-"Language" = "Language";
-"Use_System_Language" = "Use System Language";
-"Apply_Changes" = "Apply Changes";
-"Apply_Changes_Confirm" = "Applying Changes will require a restart of Sileo";
-"Help_Translate" = "Help Translate Sileo";
-"Always_Show_Install_Log" = "Always Show Install Log";
-"Auto_Show_Queue" = "Show Queue on Upgrade All";
+"Language" = "Langue";
+"Use_System_Language" = "Utiliser la langue du système";
+"Apply_Changes" = "Appliquer les changements";
+"Apply_Changes_Confirm" = "Appliquer les changements nécessitera un redémarrage de Sileo";
+"Help_Translate" = "Aider à traduire Sileo";
+"Always_Show_Install_Log" = "Toujours afficher le journal d'installation";
+"Auto_Show_Queue" = "Afficher la file d'attente lors de la mise à niveau de tout";
 
 "Sileo_Light" = "Clair";
 "Sileo_Dark" = "Sombre";
@@ -182,19 +182,19 @@
 "System" = "Système";
 "Theme_Settings" = "Paramètres du thème";
 
-"Manage_Themes" = "Manage Themes";
-"Create_Theme" = "Create Theme";
-"Import_Themes" = "Import Themes";
-"Theme_Name" = "Theme name";
-"Export_Themes" = "Export Themes";
+"Manage_Themes" = "Gérer les thèmes";
+"Create_Theme" = "Créer un thème";
+"Import_Themes" = "Importer des thèmes";
+"Theme_Name" = "Nom du thème";
+"Export_Themes" = "Exporter des thèmes";
 
-"Background_Color" = "Background Color";
-"Secondary_Background_Color" = "Secondary Background Color";
-"Label_Color" = "Label Color";
-"Highlight_Color" = "Highlight Color";
-"Seperator_Color" = "Seperator Color";
-"Header_Color" = "Header Color";
-"Banner_Color" = "Banner Color";
+"Background_Color" = "Couleur d'arrière-plan";
+"Secondary_Background_Color" = "Couleur d'arrière-plan secondaire";
+"Label_Color" = "Couleur des libellés";
+"Highlight_Color" = "Couleur d'accentuation";
+"Seperator_Color" = "Couleur des séparateurs";
+"Header_Color" = "Couleur des en-têtes";
+"Banner_Color" = "Couleur des bannières";
 
 
 "Cydia_Sign_In" = "Se connecter au Cydia Store";
@@ -206,8 +206,8 @@
 
 "Show_Install_Details" = "Afficher les détails";
 "Hide_Install_Details" = "Masquer les détails";
-"Open_In_Filza" = "Open in Filza";
-"Copy_Path" = "Copy Path";
+"Open_In_Filza" = "Ouvrir dans Filza";
+"Copy_Path" = "Copier le chemin";
 
 "After_Install_Relaunch" = "Relancer Sileo";
 "After_Install_Respring" = "Relancer le SpringBoard";
@@ -235,12 +235,12 @@
 // Depcitions
 "View_Depiction" = "Voir la description";
 
-"Copy_ID" = "Copy ID";
-"Canister_Policy" = "Canister Privacy Policy";
-"Download_Analytics" = "Download Analytics";
-"Provided_Canister" = "Provided by Canister";
-"Data_Collected" = "Data collected is used to update the featured page and various recommendation sources.";
-"Change_Later" = "You can always change your choice later.";
-"Whats_Collected" = "What's Collected";
-"Non_Identifying" = "Only package and non-identifying device information is collected.";
-"Privacy_Policy" = "Privacy Policy";
+"Copy_ID" = "Copier l'ID";
+"Canister_Policy" = "Politique de confidentialité de Canister";
+"Download_Analytics" = "Télécharger les données d'analyse";
+"Provided_Canister" = "Fourni par Canister";
+"Data_Collected" = "Les données recueillies sont utilisées pour mettre à jour la page vedette et diverses sources de recommandations.";
+"Change_Later" = "Vous pouvez toujours modifier votre choix ultérieurement.";
+"Whats_Collected" = "Ce qui est collecté";
+"Non_Identifying" = "Seules des informations sur les paquets et des informations non identifiantes de l'appareil sont collectées.";
+"Privacy_Policy" = "Politique de confidentialité";

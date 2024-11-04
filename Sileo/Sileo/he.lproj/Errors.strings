@@ -58,4 +58,4 @@
 "Purchase_Complete_Fail.Title" = "לא ניתן להשלים את פעולת הרכישה";
 "Purchase_Auth_Complete_Fail.Title" = "לא ניתן להשלים את פעולת האימות";
 
-"Couldnt_Import_Themes" = "Couldn't Import theme(s)";
+"Couldnt_Import_Themes" = "לא ניתן לייבא את ערכת (או ערכות) הנושא";

@@ -33,7 +33,7 @@
     <key>Auto_Add_Pasteboard_Sources.Body_Intro</key>
     <dict>
       <key>NSStringLocalizedFormatKey</key>
-      <string>クリップボードから %#@urls@ を追加しますか</string>
+      <string>クリップボードから %#@urls@ を追加しますか？</string>
       <key>urls</key>
       <dict>
         <key>NSStringFormatSpecTypeKey</key>

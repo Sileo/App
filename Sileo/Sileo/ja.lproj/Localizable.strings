@@ -26,9 +26,9 @@
 "Sileo_Team" = "Sileoチーム";
 "Warning" = "警告";
 "Edit" = "編集";
-"Why" = "Why";
-"Deny" = "Deny";
-"Accept" = "Accept";
+"Why" = "理由";
+"Deny" = "拒否";
+"Accept" = "同意";
 
 // Popup messages
 "Background_App_Refresh" = "Appのバックグラウンド更新";
@@ -92,16 +92,16 @@
 "Packages_By_Author" = "%@ のパッケージ"; // %@ = author name
 
 "Featured_Page" = "おすすめ";
-"News_Page" = "ニュース";
+"News_Page" = "新着";
 "Sources_Page" = "リポジトリ";
 "Packages_Page" = "パッケージ";
 "Search_Page" = "検索";
-"Search_History" = "Recently Searched";
-"Clear_Search_History" = "Clear";
+"Search_History" = "最近の検索";
+"Clear_Search_History" = "削除";
 "Refreshing_Sources_Page" = "リポジトリを更新中";
-"Package_Installed_Files_Page" = "インストール済みファイル";
+"Package_Installed_Files_Page" = "インストール済みのファイル";
 "Refresh" = "更新";
-"Remove" = "Remove";
+"Remove" = "削除";
 
 "All_Packages.Title" = "全てのパッケージ";
 "All_Packages.Cell_Subtitle" = "すべてのパッケージを表示";
@@ -115,10 +115,10 @@
 "Repo" = "リポジトリ";
 
 "Add_Source.Title" = "リポジトリを追加";
-"Add_Source.Body" = "リポジトリの URL を入力";
-"Add_Source.Button.Add" = "追加";
+"Add_Source.Body" = "リポジトリのURLを入力";
+"Add_Source.Button.Add" = "リポジトリを追加";
 "Add_Dist_Repo" = "Distリポジトリを追加";
-"Incorrect_Repo" = "%@は有効なリポジトリではないようです。リポジトリがオフラインであるか、間違って入力した可能性があります。追加しますか？";
+"Incorrect_Repo" = "%@は有効なリポジトリではないようです。リポジトリがオフラインであるか、間違って入力した可能性があります。それでも追加しますか？";
 
 "Auto_Add_Pasteboard_Sources.Button.Manual" = "手動で入力";
 
@@ -130,7 +130,7 @@
 
 "Package_Details_Tab" = "詳細";
 "Package_Changelog_Tab" = "更新履歴";
-"Package_No_Description_Available" = "このパッケージでは詳細の表示ができません。";
+"Package_No_Description_Available" = "このパッケージの説明はありません。";
 "Package_Changelogs_Unavailable" = "このパッケージでは更新履歴を表示できません";
 
 "Installed_Package_Header" = "インストール済み";
@@ -145,7 +145,7 @@
 "Settings_Translations_Heading" = "翻訳";
 
 "Settings_Payment_Provider.Purchases_Heading" = "購入済み";
-"Settings_Payment_Provider.No_Purchases" = "購入したパッケージはありません。";
+"Settings_Payment_Provider.No_Purchases" = "購入したパッケージはありません";
 "Authenticate_To_Purchase" = "購入を完了するため、認証を行ってください";
 
 "Settings" = "設定";
@@ -154,9 +154,9 @@
 "Theme" = "テーマ";
 "Tint_Color" = "色合い";
 "Reset_Tint_Color" = "色合いをリセット";
-"Auto_Complete_Queue" = "オートコンプリートキュー";
-"Show_Search_History" = "Show Search History";
-"Auto_Confirm_Upgrade_All_Shortcut" = "すべてのアップデートを自動的に実行する3D touch ショートカット";
+"Auto_Complete_Queue" = "自動でキューを完了";
+"Show_Search_History" = "検索履歴を表示";
+"Auto_Confirm_Upgrade_All_Shortcut" = "すべてのアップデートを自動的に実行する3D Touchショートカット";
 "Swipe_Actions" = "スワイプアクション";
 "Show_Provisional" = "Canisterからのパッケージを表示";
 "Show_Ignored_Updates" = "無視したアップデートを表示";
@@ -164,7 +164,7 @@
 "Pog_Developer" = "開発者モードに切り替わりました！";
 "Developer_Mode_Explain" = "開発者モードは、支払い時のAPIのHTTPS要件を無効にします。";
 "Auto_Refresh_Sources" = "リポジトリを自動で更新";
-"iCloud_Profile" = "おすすめページにiCloudプロフィール画像を表示";
+"iCloud_Profile" = "おすすめタブにiCloudプロフィール画像を表示";
 "Cache_Size" = "キャッシュサイズ";
 "Clear_Cache" = "ネットワークのキャッシュをクリア";
 "Clear_Cache_Message" = "ネットワークのキャッシュをクリアしますか？これにより%@の容量を解放します。";
@@ -172,8 +172,8 @@
 "Use_System_Language" = "システム言語を使用";
 "Apply_Changes" = "変更を保存";
 "Apply_Changes_Confirm" = "変更を保存するには、Sileoを再起動する必要があります。";
-"Help_Translate" = "Sileoの翻訳を助ける";
-"Always_Show_Install_Log" = "インストールのログを常に表示する";
+"Help_Translate" = "Sileoの翻訳を手伝う";
+"Always_Show_Install_Log" = "インストールのログを常に表示";
 "Auto_Show_Queue" = "すべてのアップデートを表示";
 
 "Sileo_Light" = "ライト";
@@ -182,19 +182,19 @@
 "System" = "システム";
 "Theme_Settings" = "テーマの設定";
 
-"Manage_Themes" = "Manage Themes";
-"Create_Theme" = "Create Theme";
-"Import_Themes" = "Import Themes";
-"Theme_Name" = "Theme name";
-"Export_Themes" = "Export Themes";
+"Manage_Themes" = "テーマの管理";
+"Create_Theme" = "テーマを作成";
+"Import_Themes" = "テーマをインポート";
+"Theme_Name" = "テーマの名称";
+"Export_Themes" = "テーマをエクスポート";
 
-"Background_Color" = "Background Color";
-"Secondary_Background_Color" = "Secondary Background Color";
-"Label_Color" = "Label Color";
-"Highlight_Color" = "Highlight Color";
-"Seperator_Color" = "Seperator Color";
-"Header_Color" = "Header Color";
-"Banner_Color" = "Banner Color";
+"Background_Color" = "背景色";
+"Secondary_Background_Color" = "第二の背景色";
+"Label_Color" = "ラベルの色";
+"Highlight_Color" = "強調表示の色";
+"Seperator_Color" = "セパレーターの色";
+"Header_Color" = "ヘッダーの色";
+"Banner_Color" = "バナーの色";
 
 
 "Cydia_Sign_In" = "Cydia Store へサインイン";
@@ -209,10 +209,10 @@
 "Open_In_Filza" = "Filzaで開く";
 "Copy_Path" = "パスをコピー";
 
-"After_Install_Relaunch" = "Sileo を再起動";
-"After_Install_Respring" = "SpringBoard を再起動";
+"After_Install_Relaunch" = "Sileoを再起動";
+"After_Install_Respring" = "SpringBoardを再起動";
 "After_Install_Reboot" = "再起動";
-"After_Install_Relaunch_Later" = "後でSileo を再起動";
+"After_Install_Relaunch_Later" = "後でSileoを再起動";
 "After_Install_Respring_Later" = "後でSpringBoard を再起動";
 "After_Install_Reboot_Later" = "後でデバイスを再起動";
 
@@ -227,20 +227,20 @@
 
 // All export-based strings
 "Export" = "エクスポート";
-"Export_Packages" = "パッケージリストをエクスポートしますか？ これにより、すべてのパッケージ名とそのバージョンがクリップボードにコピーされます。";
-"Export_Sources" = "リポジトリリストをエクスポートしますか？ これにより、すべてのリポジトリ URL がクリップボードにコピーされます。";
+"Export_Packages" = "パッケージリストをエクスポートしますか？これにより、すべてのパッケージ名とそのバージョンがクリップボードにコピーされます。";
+"Export_Sources" = "リポジトリリストをエクスポートしますか？これにより、すべてのリポジトリURLがクリップボードにコピーされます。";
 "Export_Yes" = "はい";
 "Export_No" = "キャンセル";
 
 // Depcitions
 "View_Depiction" = "詳細を見る";
 
-"Copy_ID" = "Copy ID";
-"Canister_Policy" = "Canister Privacy Policy";
-"Download_Analytics" = "Download Analytics";
-"Provided_Canister" = "Provided by Canister";
-"Data_Collected" = "Data collected is used to update the featured page and various recommendation sources.";
-"Change_Later" = "You can always change your choice later.";
-"Whats_Collected" = "What's Collected";
-"Non_Identifying" = "Only package and non-identifying device information is collected.";
-"Privacy_Policy" = "Privacy Policy";
+"Copy_ID" = "IDをコピー";
+"Canister_Policy" = "Canisterのプライバシーポリシー";
+"Download_Analytics" = "分析結果をダウンロード";
+"Provided_Canister" = "Canisterによって提供されました";
+"Data_Collected" = "収集されたデータは、注目のページや様々な推奨情報源の更新に使用されます。";
+"Change_Later" = "後で変更することもできます。";
+"Whats_Collected" = "収集されたもの";
+"Non_Identifying" = "パッケージの情報とデバイスを特定できない情報のみが収集されます。";
+"Privacy_Policy" = "プライバシーポリシー";

@@ -8,14 +8,14 @@
  LOCALISATIONS
 */
 
-"No_Category" = "(无分类)";
+"No_Category" = "(No Category)";
 "Tweaks" = "插件";
 "Themes" = "主题";
 "Utilities" = "工具";
-"Applications" = "应用程序";
+"Applications" = "应用";
 "Addons" = "附加";
 "Games" = "游戏";
 "Developer" = "开发者";
 "Data_Storage" = "数据储存";
 "Terminal_Support" = "终端支持";
-"Text_Editors" = "文本编辑";
+"Text_Editors" = "文本编辑器";

@@ -5,7 +5,7 @@
     <key>Auto_Add_Pasteboard_Sources.Title</key>
     <dict>
       <key>NSStringLocalizedFormatKey</key>
-      <string>자동으로 추가 %#@sources@</string>
+      <string>%#@sources@ 자동으로 추가</string>
       <key>sources</key>
       <dict>
         <key>NSStringFormatSpecTypeKey</key>
@@ -33,7 +33,7 @@
     <key>Auto_Add_Pasteboard_Sources.Body_Intro</key>
     <dict>
       <key>NSStringLocalizedFormatKey</key>
-      <string>클립보드에 있는 다음 %#@urls@을(를) 발견했습니다 추가하시겠습니까?</string>
+      <string>클립보드에 있는 다음 %#@urls@을(를) 발견했습니다. 추가하시겠습니까?</string>
       <key>urls</key>
       <dict>
         <key>NSStringFormatSpecTypeKey</key>

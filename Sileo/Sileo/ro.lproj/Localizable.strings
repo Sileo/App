@@ -26,9 +26,9 @@
 "Sileo_Team" = "Echipa Sileo";
 "Warning" = "Avertisment";
 "Edit" = "Editați";
-"Why" = "Why";
-"Deny" = "Deny";
-"Accept" = "Accept";
+"Why" = "De ce";
+"Deny" = "Refuză";
+"Accept" = "Acceptă";
 
 // Popup messages
 "Background_App_Refresh" = "Reîmprospătare în fundal";
@@ -101,7 +101,7 @@
 "Refreshing_Sources_Page" = "Reîmprospătare de surse";
 "Package_Installed_Files_Page" = "Fișiere instalate";
 "Refresh" = "Reîmprospătați";
-"Remove" = "Remove";
+"Remove" = "Șterge";
 
 "All_Packages.Title" = "Toate pachete";
 "All_Packages.Cell_Subtitle" = "Deschideți lista de toate pachetele din sursele voastre";
@@ -236,11 +236,11 @@
 "View_Depiction" = "Deschideți descrierea";
 
 "Copy_ID" = "Copiază ID";
-"Canister_Policy" = "Canister Privacy Policy";
-"Download_Analytics" = "Download Analytics";
-"Provided_Canister" = "Provided by Canister";
-"Data_Collected" = "Data collected is used to update the featured page and various recommendation sources.";
-"Change_Later" = "You can always change your choice later.";
-"Whats_Collected" = "What's Collected";
-"Non_Identifying" = "Only package and non-identifying device information is collected.";
-"Privacy_Policy" = "Privacy Policy";
+"Canister_Policy" = "Politica de Confidențialitate Canister";
+"Download_Analytics" = "Descarcă Analiticele";
+"Provided_Canister" = "Oferit de Canister";
+"Data_Collected" = "Datele colectate sunt utilizate pentru a actualiza pagina \"Recomandate\" și diverse surse de recomandări.";
+"Change_Later" = "Poți oricând să îți schimbi alegerea.";
+"Whats_Collected" = "Ce este colectat";
+"Non_Identifying" = "Se colectează numai informații despre ambalaj și dispozitiv care nu permit identificarea.";
+"Privacy_Policy" = "Politică de Confidenţialitate";

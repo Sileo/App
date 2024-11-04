@@ -8,7 +8,7 @@
  LOCALISATIONS
  */
 
-"Unknown" = "알수 없는 에러 발생.";
+"Unknown" = "알 수 없는 에러 발생.";
 "Error_Indicator" = "에러: %@";
 
 "No_Package.Title" = "%@ 패키지를 현재 설치된 리포에서 찾을 수 없습니다.";
@@ -37,16 +37,16 @@
 "Invalid_Data" = "유효하지 않은 데이터";
 "Try_Later" = "잠시 후에 다시 시도해주세요.";
 
-"Sileo_Update_Required.Title" = "Sileo업데이트가 필요합니다";
+"Sileo_Update_Required.Title" = "Sileo 업데이트가 필요합니다.";
 "Featured_Requires_Sileo_Update" = "추천 탭을 보기 위해서 Sileo의 업데이트가 필요합니다. 추천 탭이 잘못 표시될 수도 있습니다.";
-"Depiction_Requires_Sileo_Update" = "이 페이질를 보기 위해서 Sileo의 업데이트가 필요합니다. 페이지가 잘못 표시될 수도 있습니다.";
+"Depiction_Requires_Sileo_Update" = "이 페이지를 보기 위해서 Sileo의 업데이트가 필요합니다. 페이지가 잘못 표시될 수도 있습니다.";
 
 "Form_Error.Title" = "양식 가져오기 실패";
 "Form_Load_Error" = "서버에서 양식을 가져오지 못했습니다.";
 "Invalid_Form_Data" = "서버에서 유효하지 않은 데이터를 받았습니다.";
 "Form_Submit_Failure" = "이 양식을 전송하는데 문제가 발생하였습니다: %@";
 "Form_Submit_Error.Title" = "양식 전송 실패";
-"Form_Action_Host_Mismatch" = "양식 URL 호스트가 원본 호스트와 일치하지 않음.";
+"Form_Action_Host_Mismatch" = "양식 URL 호스트가 원본 호스트와 일치하지 않습니다.";
 
 "Email_Unavailable.Title" = "이메일을 전송할 수 없습니다.";
 "Email_Unavailable.Body" = "이메일 서비스가 존재하지 않습니다.";
@@ -58,4 +58,4 @@
 "Purchase_Complete_Fail.Title" = "구매를 완료할 수 없습니다";
 "Purchase_Auth_Complete_Fail.Title" = "인증을 완료할 수 없습니다";
 
-"Couldnt_Import_Themes" = "Couldn't Import theme(s)";
+"Couldnt_Import_Themes" = "테마(들)를 가져올 수 없음";

@@ -11,25 +11,25 @@
 "Unknown" = "Đã xảy ra lỗi không xác định.";
 "Error_Indicator" = "Lỗi: %@";
 
-"No_Package.Title" = "Không thể tìm thấy gói %@ trong kho lưu trữ bạn đã cài đặt.";
-"No_Package.Body" = "Nếu là phiên bản mới, hãy đợi Sileo cập nhật xong rồi thử lại. Kiểm tra trực tuyến để được trợ giúp thêm.";
+"No_Package.Title" = "Không tìm thấy gói %@ trong các nguồn đã thêm.";
+"No_Package.Body" = "Nếu nguồn vừa cập nhật thêm gói mới, hãy chờ cho Sileo tải lại danh sách gói rồi thử lại. Tìm trợ giúp trực tuyến để biết thêm thông tin.";
 
 "Invalid_URL.Title" = "Liên kết không hợp lệ";
 
-"Download_Size_Mismatch" = "Kích thước mong muốn %@, thay vào đó là %@.";
-"Download_Failing_Status_Code" = "Không thành công với trạng thái %ld";
-"Download_Hash_Mismatch" = "Kích thước mong muốn %@, thay vào đó là %@.";
-"Untrusted_Package" = "Gói %@ không đáng tin cậy và không thể xác minh";
+"Download_Size_Mismatch" = "Kích thước xác định là %@, nhưng kích thước sau khi tải lại là %@.";
+"Download_Failing_Status_Code" = "Không thành công với mã lỗi %ld";
+"Download_Hash_Mismatch" = "Mã hash xác định là %@, nhưng mã nhận được sau khi tải lại là %@.";
+"Untrusted_Package" = "Gói %@ không đáng tin cậy và không thể xác thực tính an toàn";
 
-"Insecure_Paid_Download" = "Liên kết tải xuống gói được ủy quyền thanh toán phải an toàn (HTTPS).";
+"Insecure_Paid_Download" = "Liên kết tải xuống gói được ủy quyền thanh toán phải có kết nối an toàn (phải sử dụng HTTPS).";
 
 "Invalid_Payment_Provider_Response" = "Nhà cung cấp thanh toán đã trả về dữ liệu không hợp lệ.";
-"No_Payment_Provider" = "Repo này không hỗ trợ mua Sileo. Nếu đây là gói Cydia Store mà bạn đã mua, bạn có thể liên kết tài khoản của mình để tải xuống.";
+"No_Payment_Provider" = "Nguồn này hiện không hỗ trợ thanh toán trên Sileo. Nếu bạn đã mua gói này trên Cydia, hãy thử đăng nhập vào tài khoản của mình để tải xuống.";
 
-"Package_Unavailable" = "Gói này không có sẵn từ các nguồn đã cài đặt của bạn. Vui lòng kiểm tra để đảm bảo rằng nguồn %@ có sẵn.";
+"Package_Unavailable" = "Gói này hiện không khả dụng trong các nguồn bạn đã thêm. Vui lòng kiểm tra lại để chắc chắn rằng nguồn %@ vẫn đang hoạt động.";
 
 "Installation_Error.Title" = "Lỗi cài đặt";
-"Installation_Error.Body" = "Sileo không có được quyền root. Vui lòng cài đặt lại Sileo bằng SSH.";
+"Installation_Error.Body" = "Sileo hiện không lấy được quyền root. Vui lòng cài đặt lại Sileo bằng SSH.";
 
 "FixingDpkg.Title" = "Dpkg bị gián đoạn";
 "FixingDpkg.Body" = "Dpkg đã bị gián đoạn. Vui lòng đợi trong khi chúng tôi cố gắng khắc phục sự cố.";
@@ -38,15 +38,15 @@
 "Try_Later" = "Vui lòng thử lại sau.";
 
 "Sileo_Update_Required.Title" = "Yêu cầu cập nhật Sileo";
-"Featured_Requires_Sileo_Update" = "Cần có bản cập nhật Sileo để xem tab nổi bật. Tab nổi bật có thể được hiển thị không chính xác.";
-"Depiction_Requires_Sileo_Update" = "Cần có bản cập nhật Sileo để xem trang này. Trang có thể được hiển thị không chính xác.";
+"Featured_Requires_Sileo_Update" = "Cần có bản cập nhật Sileo để xem tab nổi bật. Nếu không, tab nổi bật có thể được hiển thị không chính xác.";
+"Depiction_Requires_Sileo_Update" = "Cần có bản cập nhật Sileo để xem trang này. Nếu không, trang có thể được hiển thị không chính xác.";
 
 "Form_Error.Title" = "Không thể tải biểu mẫu";
 "Form_Load_Error" = "Không thể tải biểu mẫu từ máy chủ.";
 "Invalid_Form_Data" = "Máy chủ đã cung cấp dữ liệu biểu mẫu không hợp lệ.";
 "Form_Submit_Failure" = "Đã xảy ra lỗi khi cố gắng gửi biểu mẫu: %@";
 "Form_Submit_Error.Title" = "Không thể gửi biểu mẫu";
-"Form_Action_Host_Mismatch" = "Máy chủ lưu trữ của hành động biểu mẫu không khớp với máy chủ lưu trữ gốc của biểu mẫu.";
+"Form_Action_Host_Mismatch" = "Máy chủ của liên kết chuyển hướng sau khi gửi biểu mẫu không khớp với máy chủ của biểu mẫu gốc.";
 
 "Email_Unavailable.Title" = "Không thể gửi email";
 "Email_Unavailable.Body" = "Dịch vụ thư không khả dụng.";
@@ -54,8 +54,8 @@
 "Settings_Payment_Provider.Profile.Title" = "Không thể tải hồ sơ";
 
 "Provider_Auth_Fail.Title" = "Không thể xác thực nhà cung cấp";
-"Purchase_Initiate_Fail.Title" = "Không thể bắt đầu mua hàng";
-"Purchase_Complete_Fail.Title" = "Không thể hoàn tất mua hàng";
-"Purchase_Auth_Complete_Fail.Title" = "Không thể hoàn thành xác thực";
+"Purchase_Initiate_Fail.Title" = "Không thể thực hiện thanh toán";
+"Purchase_Complete_Fail.Title" = "Không thể hoàn tất thanh toán";
+"Purchase_Auth_Complete_Fail.Title" = "Không thể hoàn tất quy trình xác thực";
 
 "Couldnt_Import_Themes" = "Không thể nhập theme";

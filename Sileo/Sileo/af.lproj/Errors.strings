@@ -11,51 +11,52 @@
 "Unknown" = "'n Onbekende fout het gebeur.";
 "Error_Indicator" = "Fout: %@";
 
-"No_Package.Title" = "Kon nie die pakket %@ in die bewaarplekke wat jy tans geïnstalleer het, vind nie.";
-"No_Package.Body" = "As dit nuut is, wag for Sileo om klaar op te dateer, dan probeer weer. Kyk aanlyn vir meer hulp.";
+"No_Package.Title" = "Kon nie die pakket %@ in die bewaarplekke wat U tans geïnstalleer het, vind nie.";
+"No_Package.Body" = "As dit nuut is, wag vir Sileo om klaar op te dateer, dan probeer weer. Kyk aanlyn vir meer hulp.";
 
 "Invalid_URL.Title" = "Ongeldige URL";
 
-"Download_Size_Mismatch" = "Verwagte groote %@ het eerder %@ gekry.";
+"Download_Size_Mismatch" = "Verwagte groote %@, het eerder %@ gekry.";
 "Download_Failing_Status_Code" = "Misluk met status %ld";
-"Download_Hash_Mismatch" = "Verwagte hash %@ het eerder %@ gekry.";
+"Download_Hash_Mismatch" = "Het hash %@ verwag, het eerder %@ gekry.";
 "Untrusted_Package" = "Pakket %@ is onbetroubaar en kan nie geverifeer word nie";
 
-"Insecure_Paid_Download" = "Betaling-gemagtigde pakket aflaai URL's moet veilig wees (HTTPS).";
+"Insecure_Paid_Download" = "Betaling-gemagtigde pakket aflaai-URL's moet veilig wees (HTTPS).";
 
 "Invalid_Payment_Provider_Response" = "Die betalingsverskaffer het 'n ongeldige antwoord uitgereik.";
-"No_Payment_Provider" = "Hierdie repo ondersteun nie Sileo-aankoope nie. As hierdie 'n Cydia Store pakket is wat jy al gekoop het, mag jy jou rekening koppel om dit af te laai.";
+"No_Payment_Provider" = "Hierdie bewaarplek ondersteun nie Sileo-aankoope nie. As hierdie 'n Cydia Store pakket is wat U al gekoop het, mag U U rekening koppel om dit af te laai.";
 
-"Package_Unavailable" = "Hierdie paket is nie van jou geïnstalleerde bronne beskikbaar nie. Kyk asseblief om seker te maak dat die %@ repo beskikbaar is.";
+"Package_Unavailable" = "Hierdie paket is nie van U geïnstalleerde bronne beskikbaar nie. Kyk asseblief om seker te maak dat die %@ repo beskikbaar is.";
 
-"Installation_Error.Title" = "Installation Error";
-"Installation_Error.Body" = "Sileo was unable to acquire root permissions. Please reinstall Sileo using SSH.";
+"Installation_Error.Title" = "Installasiefout";
+"Installation_Error.Body" = "Sileo kon nie worteltoestemmings verkry nie.
+Herinstalleer asseblief Sileo met SSH.";
 
-"FixingDpkg.Title" = "Dpkg Onderbreuk";
-"FixingDpkg.Body" = "Dpkg was interrupted. Please wait while we attempt to fix the issue.";
+"FixingDpkg.Title" = "Dpkg Onderbreek";
+"FixingDpkg.Body" = "Dpkg was onderbreek. Wag asseblief terwyl ons probeer om die probleem op te los.";
 
-"Invalid_Data" = "Invalid Data";
+"Invalid_Data" = "Ongeldige Data";
 "Try_Later" = "Probeer weer later asseblief.";
 
-"Sileo_Update_Required.Title" = "Sileo Update Required";
-"Featured_Requires_Sileo_Update" = "A Sileo update is required to view the featured tab. The featured tab may be rendered incorrectly.";
-"Depiction_Requires_Sileo_Update" = "A Sileo update is required to view this page. The page may be rendered incorrectly.";
+"Sileo_Update_Required.Title" = "Sileo-Opdatering Vereis";
+"Featured_Requires_Sileo_Update" = "'n Sileo-opdatering is vereis om die uitgestalde oortjie te sien. Die uitgestalde oortjie kan dalk verkeerd weergegee word.";
+"Depiction_Requires_Sileo_Update" = "'n Sileo-opdatering is vereis om hierdie bladsy te bekyk. Die bladsy kan dalk verkeerd weergegee word.";
 
-"Form_Error.Title" = "Kon Nie Vorm Laai Nie";
-"Form_Load_Error" = "The form could not be loaded from the server.";
-"Invalid_Form_Data" = "The server provided invalid form data.";
-"Form_Submit_Failure" = "An error occurred while attempting to submit the form: %@";
-"Form_Submit_Error.Title" = "Couldn't Submit Form";
-"Form_Action_Host_Mismatch" = "The form action's URL host doesn't match the form's origin host.";
+"Form_Error.Title" = "Kon nie Vorm Laai nie";
+"Form_Load_Error" = "Die vorm kon nie van die bediener af gelaai word nie.";
+"Invalid_Form_Data" = "Die bediener het ongeldige vormdata verskaf.";
+"Form_Submit_Failure" = "'n Fout het voorgekom tydens die poging om die vorm in te dien: %@";
+"Form_Submit_Error.Title" = "Kon nie Vorm Indien nie";
+"Form_Action_Host_Mismatch" = "Die vormaksie se URL-gasheer stem nie ooreen met die vorm se oorspronggasheer nie.";
 
-"Email_Unavailable.Title" = "Kon Nie E-pos Stuur Nie";
+"Email_Unavailable.Title" = "Kan nie E-pos Stuur nie";
 "Email_Unavailable.Body" = "Posdienste is nie beskikbaar nie.";
 
-"Settings_Payment_Provider.Profile.Title" = "Kon Nie Profiel Laai Nie";
+"Settings_Payment_Provider.Profile.Title" = "Kon nie Profiel Laai nie";
 
-"Provider_Auth_Fail.Title" = "Couldn't Authenticate Provider";
-"Purchase_Initiate_Fail.Title" = "Kon Nie Aankoop Begin Nie";
-"Purchase_Complete_Fail.Title" = "Kon Nie Aankoop Voltooi Nie";
-"Purchase_Auth_Complete_Fail.Title" = "Couldn't Complete Authentication";
+"Provider_Auth_Fail.Title" = "Kon nie Verskaffer Staaf nie";
+"Purchase_Initiate_Fail.Title" = "Kon nie Aankoop Begin nie";
+"Purchase_Complete_Fail.Title" = "Kon nie Aankoop Voltooi nie";
+"Purchase_Auth_Complete_Fail.Title" = "Kon nie Verskaffer Voltooi nie";
 
-"Couldnt_Import_Themes" = "Couldn't Import theme(s)";
+"Couldnt_Import_Themes" = "Kon nie Tema(s) Invoer nie";

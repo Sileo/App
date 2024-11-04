@@ -21,9 +21,9 @@
         <key>few</key>
         <string>مصادر</string>
         <key>many</key>
-        <string>مصادر</string>
+        <string>مصدر</string>
         <key>other</key>
-        <string>مصادر</string>
+        <string>مصدر</string>
       </dict>
     </dict>
     <key>Auto_Add_Pasteboard_Sources.Button.Add</key>
@@ -67,7 +67,7 @@
         <key>two</key>
         <string>عنوانيْ URL</string>
         <key>few</key>
-        <string>عنوان URL</string>
+        <string>عناوين URL</string>
         <key>many</key>
         <string>عنوان URL</string>
         <key>other</key>
@@ -87,9 +87,9 @@
         <key>zero</key>
         <string>%d حزمة</string>
         <key>one</key>
-        <string>%d حزمة</string>
+        <string>حزمة واحدة</string>
         <key>two</key>
-        <string>%d حزمة</string>
+        <string>حزمتان</string>
         <key>few</key>
         <string>%d حزمة</string>
         <key>many</key>

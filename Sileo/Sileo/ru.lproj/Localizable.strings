@@ -26,9 +26,9 @@
 "Sileo_Team" = "Команда Sileo";
 "Warning" = "Предупреждение";
 "Edit" = "Изменить";
-"Why" = "Why";
-"Deny" = "Deny";
-"Accept" = "Accept";
+"Why" = "Зачем";
+"Deny" = "Отклонить";
+"Accept" = "Принять";
 
 // Popup messages
 "Background_App_Refresh" = "Обновление фоновых приложений";
@@ -101,7 +101,7 @@
 "Refreshing_Sources_Page" = "Обновление источников";
 "Package_Installed_Files_Page" = "Установленные файлы";
 "Refresh" = "Обновить";
-"Remove" = "Remove";
+"Remove" = "Удалить";
 
 "All_Packages.Title" = "Все пакеты";
 "All_Packages.Cell_Subtitle" = "Посмотреть все пакеты из ваших источников";
@@ -236,11 +236,11 @@
 "View_Depiction" = "Посмотреть описание";
 
 "Copy_ID" = "Скопировать ID";
-"Canister_Policy" = "Canister Privacy Policy";
-"Download_Analytics" = "Download Analytics";
-"Provided_Canister" = "Provided by Canister";
-"Data_Collected" = "Data collected is used to update the featured page and various recommendation sources.";
-"Change_Later" = "You can always change your choice later.";
-"Whats_Collected" = "What's Collected";
+"Canister_Policy" = "Политика конфиденциальности Canister";
+"Download_Analytics" = "Скачать аналитику";
+"Provided_Canister" = "Предоставлено Canister";
+"Data_Collected" = "Собранные данные используются для обновления главной страницы и различных источников рекомендаций.";
+"Change_Later" = "Вы всегда можете изменить свой выбор.";
+"Whats_Collected" = "Что собирается";
 "Non_Identifying" = "Only package and non-identifying device information is collected.";
-"Privacy_Policy" = "Privacy Policy";
+"Privacy_Policy" = "Политика конфиденциальности";

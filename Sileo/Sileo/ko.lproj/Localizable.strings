@@ -9,7 +9,7 @@
 */
 // Common Prompts
 
-"About" = "About";
+"About" = "정보";
 "Close" = "닫기";
 "Double tap to open." = "두번 탭해서 열기.";
 "Untitled_Repo" = "제목 없는 리포";
@@ -24,11 +24,11 @@
 "Acknowledge" = "승인";
 "Remove" = "삭제";
 "Sileo_Team" = "Sileo Team";
-"Warning" = "Warning";
-"Edit" = "Edit";
-"Why" = "Why";
-"Deny" = "Deny";
-"Accept" = "Accept";
+"Warning" = "주의";
+"Edit" = "수정";
+"Why" = "어째서?";
+"Deny" = "거절";
+"Accept" = "허용";
 
 // Popup messages
 "Background_App_Refresh" = "백그라운드 앱 새로 고침";
@@ -44,11 +44,11 @@
 "Download_Starting" = "시작 중…";
 "Download_Progress" = "%@ 중 %@"; // first %@ = amount downloaded, second %@ = total to download
 
-"Essential_Warning" = "The following packages are listed as essential/required: %@\n Removing these could cause irreversible damage to your device and may require you to restore. Only continue if you are certain you know what you're doing.";
+"Essential_Warning" = "다음 패키지들은 필수/필요로 나열되어 있습니다: %@\n 이러한 패키지들을 제거하면 기기에 불가피한 손상이 발생할 수 있으며, 복원이 필요할 수도 있습니다. 자신이 무엇을 하고 있는지 확실하게 알 경우에만 계속 진행해주세요.";
 
 "Queue_Confirm_Button" = "확인";
 "Queue_Clear_Button" = "대기열 비우기";
-"Queue_Cancel_Downloads" = "Cancel Downloads";
+"Queue_Cancel_Downloads" = "다운로드 취소";
 
 "Package_Upgrade_Action" = "업그레이드";
 "Package_Reinstall_Action" = "재설치";
@@ -68,8 +68,8 @@
 "Package_Wishlist_Remove" = "위시리스트에서 삭제";
 "Wishlist" = "위시리스트";
 
-"No_New_Packages" = "No New Packages";
-"News_Check_Later" = "There are no new packages indexed yet. Come back in a few hours and you should see packages start showing up here as repos get updated.";
+"No_New_Packages" = "새로운 패키지 없음";
+"News_Check_Later" = "아직 새로운 패키지가 인덱싱되지 않았습니다. 몇 시간 뒤에 다시 확인하시면 저장소가 업데이트되면서 여기에 패키지들이 나타날 것입니다.";
 
 // Headings for sections in the queue/status popup.
 "Queued_Install_Heading" = "설치";
@@ -83,7 +83,7 @@
 "Package_Search.Placeholder" = "패키지 검색";
 "Sort_Name" = "이름";
 "Sort_Date" = "날짜";
-"Sort_Install_Size" = "Installed Size";
+"Sort_Install_Size" = "설치된 크기";
 "Sort_By" = "분류:";
 
 "Package_Unavailable" = "패키지를 사용할 수 없음";
@@ -96,12 +96,12 @@
 "Sources_Page" = "소스";
 "Packages_Page" = "패키지";
 "Search_Page" = "검색";
-"Search_History" = "Recently Searched";
-"Clear_Search_History" = "Clear";
+"Search_History" = "검색 기록";
+"Clear_Search_History" = "비우기";
 "Refreshing_Sources_Page" = "소스 새로고침 중";
 "Package_Installed_Files_Page" = "파일 설치됨";
 "Refresh" = "새로고침";
-"Remove" = "Remove";
+"Remove" = "삭제";
 
 "All_Packages.Title" = "모든 패키지";
 "All_Packages.Cell_Subtitle" = "소스에 있는 모든 패키지 보기";
@@ -112,13 +112,13 @@
 "Ignored Updates" = "무시된 업데이트";
 
 "Repos" = "리포";
-"Repo" = "Repository";
+"Repo" = " 리포";
 
 "Add_Source.Title" = "소스 추가";
 "Add_Source.Body" = "APT 주소 추가";
 "Add_Source.Button.Add" = "소스 추가";
-"Add_Dist_Repo" = "Add Dist Repo";
-"Incorrect_Repo" = "%@ does not appear to be a valid repo⁉️ The repo may be offline or you may have entered it incorrectly. Do you want to add it anyway?";
+"Add_Dist_Repo" = "Dist 리포 추가";
+"Incorrect_Repo" = "%@는(은) 유효한 저장소로 보이지 않습니다⁉️ 해당 저장소가 오프라인 상태이거나 잘못 입력한 것 같습니다. 그래도 추가하시겠습니까?";
 
 "Auto_Add_Pasteboard_Sources.Button.Manual" = "직접 입력";
 
@@ -134,7 +134,7 @@
 "Package_Changelogs_Unavailable" = "이 패키지에 대한 변경점이 없습니다.";
 
 "Installed_Package_Header" = "설치된 패키지";
-"Installed_Packages" = "Installed Packages";
+"Installed_Packages" = "설치된 패키지";
 "Version" = "버전";
 "Show_Package_Contents_Button" = "패키지 콘텐츠 보기";
 
@@ -146,7 +146,7 @@
 
 "Settings_Payment_Provider.Purchases_Heading" = "구입";
 "Settings_Payment_Provider.No_Purchases" = "구입 안함";
-"Authenticate_To_Purchase" = "Authenticate to complete your purchase";
+"Authenticate_To_Purchase" = "구매를 완료하려면 인증해 주세요.";
 
 "Settings" = "설정";
 "Settings_Page_Title" = "설정";
@@ -155,7 +155,7 @@
 "Tint_Color" = "배경색상";
 "Reset_Tint_Color" = "배경색상 초기화";
 "Auto_Complete_Queue" = "대기열 자동완성";
-"Show_Search_History" = "Show Search History";
+"Show_Search_History" = "검색 기록 보이기";
 "Auto_Confirm_Upgrade_All_Shortcut" = "모든 바로가기 업데이트 자동확인";
 "Swipe_Actions" = "스와이프 동작";
 "Show_Provisional" = "Canister에서 패키지를 확인하기";
@@ -164,37 +164,37 @@
 "Pog_Developer" = "당신은 이제 개발자입니다!";
 "Developer_Mode_Explain" = "개발자 모드에서는 결제 API의 https 요구 사항을 비활성화 합니다.";
 "Auto_Refresh_Sources" = "자동으로 소스 새로고침";
-"iCloud_Profile" = "Show iCloud Picture in Featured";
-"Cache_Size" = "Cache Size";
-"Clear_Cache" = "Clear Network Cache";
-"Clear_Cache_Message" = "Do you want to clear the network cache? This will free %@";
-"Language" = "Language";
-"Use_System_Language" = "Use System Language";
-"Apply_Changes" = "Apply Changes";
-"Apply_Changes_Confirm" = "Applying Changes will require a restart of Sileo";
-"Help_Translate" = "Help Translate Sileo";
-"Always_Show_Install_Log" = "Always Show Install Log";
-"Auto_Show_Queue" = "Show Queue on Upgrade All";
+"iCloud_Profile" = "특색 화면에서 iCloud 사진 보기";
+"Cache_Size" = "캐시 크기";
+"Clear_Cache" = "네트워크 캐시 비우기";
+"Clear_Cache_Message" = "네트워크 캐시를 지우시겠습니까? 이로 인해 %@이(가) 해제됩니다.";
+"Language" = "언어";
+"Use_System_Language" = "시스템 언어 사용";
+"Apply_Changes" = "변경사항 적용";
+"Apply_Changes_Confirm" = "변경 사항을 저장하기 위해 Sileo를 다시 시작해야 합니다.";
+"Help_Translate" = "Sileo 번역 돕기";
+"Always_Show_Install_Log" = "설치 로그 항상 표시";
+"Auto_Show_Queue" = "모든 업그레이드 대기열 보기";
 
-"Sileo_Light" = "실리오 라이트";
-"Sileo_Dark" = "실리오 다크";
-"Sileo_Adaptive" = "실리오 어댑티브";
+"Sileo_Light" = "Sileo 라이트";
+"Sileo_Dark" = "Sileo 다크";
+"Sileo_Adaptive" = "Sileo 어댑티브";
 "System" = "시스템";
 "Theme_Settings" = "테마 설정";
 
-"Manage_Themes" = "Manage Themes";
-"Create_Theme" = "Create Theme";
-"Import_Themes" = "Import Themes";
-"Theme_Name" = "Theme name";
-"Export_Themes" = "Export Themes";
+"Manage_Themes" = "테마들 관리";
+"Create_Theme" = "테마 생성";
+"Import_Themes" = "테마 가져오기";
+"Theme_Name" = "테마 이름";
+"Export_Themes" = "테마 내보내기";
 
-"Background_Color" = "Background Color";
-"Secondary_Background_Color" = "Secondary Background Color";
-"Label_Color" = "Label Color";
-"Highlight_Color" = "Highlight Color";
-"Seperator_Color" = "Seperator Color";
-"Header_Color" = "Header Color";
-"Banner_Color" = "Banner Color";
+"Background_Color" = "배경 색상";
+"Secondary_Background_Color" = "보조 배경 색상";
+"Label_Color" = "레이블 색상";
+"Highlight_Color" = "강조 색상";
+"Seperator_Color" = "색상 분리";
+"Header_Color" = "헤더 색상";
+"Banner_Color" = "배너 색상";
 
 
 "Cydia_Sign_In" = "Cydia Store에 로그인";
@@ -206,14 +206,14 @@
 
 "Show_Install_Details" = "자세히보기";
 "Hide_Install_Details" = "간략히";
-"Open_In_Filza" = "Open in Filza";
-"Copy_Path" = "Copy Path";
+"Open_In_Filza" = "Filza 에서 열기";
+"Copy_Path" = "경로 복사";
 
 "After_Install_Relaunch" = "Sileo 재시작";
 "After_Install_Respring" = "SpringBoard 재시작";
 "After_Install_Reboot" = "기기 재시작";
-"After_Install_Relaunch_Later" = "나중에 실리오 재시작";
-"After_Install_Respring_Later" = "나중에 스프링보드 재시작";
+"After_Install_Relaunch_Later" = "나중에 Sileo 재시작";
+"After_Install_Respring_Later" = "나중에 SpringBoard 재시작";
 "After_Install_Reboot_Later" = "나중에 기기 재부팅";
 
 "Dangerous_Repo.Title" = "위험한 리포";
@@ -235,12 +235,12 @@
 // Depcitions
 "View_Depiction" = "설명 보기";
 
-"Copy_ID" = "Copy ID";
-"Canister_Policy" = "Canister Privacy Policy";
-"Download_Analytics" = "Download Analytics";
-"Provided_Canister" = "Provided by Canister";
-"Data_Collected" = "Data collected is used to update the featured page and various recommendation sources.";
-"Change_Later" = "You can always change your choice later.";
-"Whats_Collected" = "What's Collected";
-"Non_Identifying" = "Only package and non-identifying device information is collected.";
-"Privacy_Policy" = "Privacy Policy";
+"Copy_ID" = "ID 복사";
+"Canister_Policy" = "Canister 개인정보 처리방침";
+"Download_Analytics" = "다운로드 분석";
+"Provided_Canister" = "Canister에서 제공됨";
+"Data_Collected" = "수집된 데이터는 추천 페이지와 다양한 추천 소스를 업데이트하는 데 사용됩니다.";
+"Change_Later" = "언제든지 나중에 선택을 변경할 수 있습니다.";
+"Whats_Collected" = "수집되는 정보";
+"Non_Identifying" = "오직 패키지와 개인을 식별할 수 없는 기기 정보만 수집됩니다.";
+"Privacy_Policy" = "개인정보 처리방침";

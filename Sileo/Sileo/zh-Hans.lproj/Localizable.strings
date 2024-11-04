@@ -26,7 +26,7 @@
 "Sileo_Team" = "Sileo 团队";
 "Warning" = "警告";
 "Edit" = "编辑";
-"Why" = "Why";
+"Why" = "";
 "Deny" = "Deny";
 "Accept" = "Accept";
 
@@ -236,11 +236,11 @@
 "View_Depiction" = "查看介绍";
 
 "Copy_ID" = "复制 ID";
-"Canister_Policy" = "Canister Privacy Policy";
-"Download_Analytics" = "Download Analytics";
-"Provided_Canister" = "Provided by Canister";
-"Data_Collected" = "Data collected is used to update the featured page and various recommendation sources.";
-"Change_Later" = "You can always change your choice later.";
-"Whats_Collected" = "What's Collected";
+"Canister_Policy" = "";
+"Download_Analytics" = "";
+"Provided_Canister" = "";
+"Data_Collected" = "";
+"Change_Later" = "";
+"Whats_Collected" = "什么";
 "Non_Identifying" = "Only package and non-identifying device information is collected.";
-"Privacy_Policy" = "Privacy Policy";
+"Privacy_Policy" = "";

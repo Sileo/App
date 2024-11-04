@@ -24,22 +24,22 @@
 "Insecure_Paid_Download" = "有料パッケージをダウンロードする際の URL は保護されている必要があります。(HTTPS)";
 
 "Invalid_Payment_Provider_Response" = "決済サービスプロバイダーからの応答が無効です。";
-"No_Payment_Provider" = "このリポジトリは Sileo からの購入をサポートしていません。 既に Cydia Store で購入済みの場合は、アカウントをリンクすることでダウンロードが可能です。";
+"No_Payment_Provider" = "このリポジトリはSileoからの購入をサポートしていません。既にCydia Storeで購入済みの場合は、アカウントをリンクすることでダウンロードが可能です。";
 
 "Package_Unavailable" = "追加されたリポジトリからこのパッケージをインストールすることはできません。%@ のリポジトリが利用可能か確認してください。";
 
 "Installation_Error.Title" = "インストールエラー";
-"Installation_Error.Body" = "Sileo は root 権限の取得に失敗しました。SSHを利用してSileoを再インストールしてください。";
+"Installation_Error.Body" = "Sileoはroot権限の取得に失敗しました。SSHを利用してSileoを再インストールしてください。";
 
-"FixingDpkg.Title" = "Dpkg が中断されました";
-"FixingDpkg.Body" = "Dpkg が中断されました。 問題が解決されるまでしばらくお待ちください。";
+"FixingDpkg.Title" = "Dpkgが中断されました";
+"FixingDpkg.Body" = "Dpkgが中断されました。問題が解決されるまでしばらくお待ちください。";
 
 "Invalid_Data" = "無効なデータ";
 "Try_Later" = "後ほどお試しください。";
 
-"Sileo_Update_Required.Title" = "Sileo のアップデートが必要です。";
-"Featured_Requires_Sileo_Update" = "レコメンドを表示するには Sileo のアップデートが必要です。レコメンドタブが正常に表示されない場合があります。";
-"Depiction_Requires_Sileo_Update" = "このページを表示するには Sileo の更新が必要です。 ページが正常に表示されない可能性があります。";
+"Sileo_Update_Required.Title" = "Sileoのアップデートが必要です。";
+"Featured_Requires_Sileo_Update" = "おすすめを表示するにはSileoのアップデートが必要です。おすすめタブが正しく表示されない場合があります。";
+"Depiction_Requires_Sileo_Update" = "このページを表示するには Sileoの更新が必要です。 ページが正しくに表示されない可能性があります。";
 
 "Form_Error.Title" = "フォームを読み込めませんでした";
 "Form_Load_Error" = "サーバーからフォームを読み込むことができませんでした。";
@@ -49,13 +49,13 @@
 "Form_Action_Host_Mismatch" = "フォームアクションの URL ホストがフォームの元のホストと一致しません。";
 
 "Email_Unavailable.Title" = "メールの送信ができません。";
-"Email_Unavailable.Body" = "メールサービスが現在利用できません。";
+"Email_Unavailable.Body" = "メールサービスは現在利用できません。";
 
-"Settings_Payment_Provider.Profile.Title" = "プロフィールが読み込めません。";
+"Settings_Payment_Provider.Profile.Title" = "プロフィールを読み込めませんでした";
 
 "Provider_Auth_Fail.Title" = "決済サービスプロバイダーの認証に失敗しました。";
 "Purchase_Initiate_Fail.Title" = "購入処理を開始できません。";
 "Purchase_Complete_Fail.Title" = "購入を完了できませんでした。";
 "Purchase_Auth_Complete_Fail.Title" = "認証に失敗しました。";
 
-"Couldnt_Import_Themes" = "Couldn't Import theme(s)";
+"Couldnt_Import_Themes" = "テーマをインポートできませんでした";

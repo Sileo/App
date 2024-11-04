@@ -26,9 +26,9 @@
 "Sileo_Team" = "צוות סילאו";
 "Warning" = "אזהרה";
 "Edit" = "ערוך";
-"Why" = "Why";
-"Deny" = "Deny";
-"Accept" = "Accept";
+"Why" = "למה";
+"Deny" = "סרב";
+"Accept" = "קבל";
 
 // Popup messages
 "Background_App_Refresh" = "רענון יישום ברקע";
@@ -96,12 +96,12 @@
 "Sources_Page" = "מקורות";
 "Packages_Page" = "חבילות";
 "Search_Page" = "חיפוש";
-"Search_History" = "Recently Searched";
-"Clear_Search_History" = "Clear";
+"Search_History" = "חיפושים אחרונים";
+"Clear_Search_History" = "נקה";
 "Refreshing_Sources_Page" = "מרענן מקורות";
 "Package_Installed_Files_Page" = "קבצים מותקנים";
 "Refresh" = "רענן";
-"Remove" = "Remove";
+"Remove" = "מחק";
 
 "All_Packages.Title" = "כל החבילות";
 "All_Packages.Cell_Subtitle" = "ראה את כלל החבילות מכל המקורות שלך";
@@ -146,7 +146,7 @@
 
 "Settings_Payment_Provider.Purchases_Heading" = "רכישות";
 "Settings_Payment_Provider.No_Purchases" = "אין רכישות";
-"Authenticate_To_Purchase" = "Authenticate to complete your purchase";
+"Authenticate_To_Purchase" = "התחבר לחשבונך כדי להמשיך ברכישה";
 
 "Settings" = "הגדרות";
 "Settings_Page_Title" = "הגדרות";
@@ -155,7 +155,7 @@
 "Tint_Color" = "גוון";
 "Reset_Tint_Color" = "אפס גוון";
 "Auto_Complete_Queue" = "השלמה אוטומטית של התור";
-"Show_Search_History" = "Show Search History";
+"Show_Search_History" = "הראה היסטוריית חיפוש";
 "Auto_Confirm_Upgrade_All_Shortcut" = "אישור אוטומטי ל\"עדכן הכל\"";
 "Swipe_Actions" = "פעולות בהחלקה";
 "Show_Provisional" = "הצג חבילות מ-Canister";
@@ -182,19 +182,19 @@
 "System" = "מערכת";
 "Theme_Settings" = "הגדרות ערכות נושא";
 
-"Manage_Themes" = "Manage Themes";
-"Create_Theme" = "Create Theme";
-"Import_Themes" = "Import Themes";
-"Theme_Name" = "Theme name";
-"Export_Themes" = "Export Themes";
+"Manage_Themes" = "נהל ערכות נושא";
+"Create_Theme" = "צור ערכת נושא";
+"Import_Themes" = "ייבא ערכות נושא";
+"Theme_Name" = "שם ערכת הנושא";
+"Export_Themes" = "ייצא ערכות נושא";
 
-"Background_Color" = "Background Color";
-"Secondary_Background_Color" = "Secondary Background Color";
-"Label_Color" = "Label Color";
-"Highlight_Color" = "Highlight Color";
-"Seperator_Color" = "Seperator Color";
-"Header_Color" = "Header Color";
-"Banner_Color" = "Banner Color";
+"Background_Color" = "צבע רקע";
+"Secondary_Background_Color" = "צבע רקע משני";
+"Label_Color" = "צבע טקסט";
+"Highlight_Color" = "צבע טקסט מודגש";
+"Seperator_Color" = "צבע המפרידים";
+"Header_Color" = "צבע הכותרות";
+"Banner_Color" = "צבע הבאנר";
 
 
 "Cydia_Sign_In" = "התחבר לחנות הסידיה";
@@ -235,12 +235,12 @@
 // Depcitions
 "View_Depiction" = "הצג תיאור";
 
-"Copy_ID" = "Copy ID";
-"Canister_Policy" = "Canister Privacy Policy";
-"Download_Analytics" = "Download Analytics";
-"Provided_Canister" = "Provided by Canister";
-"Data_Collected" = "Data collected is used to update the featured page and various recommendation sources.";
-"Change_Later" = "You can always change your choice later.";
-"Whats_Collected" = "What's Collected";
-"Non_Identifying" = "Only package and non-identifying device information is collected.";
-"Privacy_Policy" = "Privacy Policy";
+"Copy_ID" = "העתק ID";
+"Canister_Policy" = "מדיניות הפרטיות של Canister";
+"Download_Analytics" = "נתוני הורדות";
+"Provided_Canister" = "סופק על ידי Canister";
+"Data_Collected" = "המידע שנאסף נועד בכדי לעדכן את הדף הראשי ובכדי לאסוף מקורות מומלצים.";
+"Change_Later" = "תוכל לשנות את בחירתך בעתיד.";
+"Whats_Collected" = "מה נאסף";
+"Non_Identifying" = "רק מידע אודות החבילות ומידע שלא ניתן לקשר אלייך נאסף.";
+"Privacy_Policy" = "מדיניות הפרטיות";

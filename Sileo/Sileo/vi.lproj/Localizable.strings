@@ -9,26 +9,26 @@
 */
 // Common Prompts
 
-"About" = "Xem Thêm";
+"About" = "Giới thiệu";
 "Close" = "Đóng";
-"Double tap to open." = "Đúp 2 lần để mở.";
-"Untitled_Repo" = "Kho lưu trữ không tên";
-"OK" = "Đồng Ý";
-"Done" = "Hoàn Thành";
-"Done_Editing" = "Hoàn Thành";
+"Double tap to open." = "Nhấn hai lần để mở.";
+"Untitled_Repo" = "Nguồn không có tên";
+"OK" = "OK";
+"Done" = "Xong";
+"Done_Editing" = "Xong";
 "More_Info" = "Thêm thông tin";
-"Loading" = "Đang Tải…";
-"Share" = "Chia Sẻ";
+"Loading" = "Đang tải…";
+"Share" = "Chia sẻ";
 "Delete" = "Xoá";
 "Cancel" = "Huỷ";
-"Acknowledge" = "Chấp Nhận";
+"Acknowledge" = "Chấp nhận";
 "Remove" = "Xóa";
 "Sileo_Team" = "Đội Sileo";
 "Warning" = "Cảnh báo";
 "Edit" = "Sửa đổi";
-"Why" = "Why";
-"Deny" = "Deny";
-"Accept" = "Accept";
+"Why" = "Tại sao";
+"Deny" = "Từ chối";
+"Accept" = "Chấp nhận";
 
 // Popup messages
 "Background_App_Refresh" = "Làm mới ứng dụng nền";
@@ -101,7 +101,7 @@
 "Refreshing_Sources_Page" = "Làm mới nguồn";
 "Package_Installed_Files_Page" = "Tệp đã cài đặt";
 "Refresh" = "Làm mới";
-"Remove" = "Remove";
+"Remove" = "Loại bỏ";
 
 "All_Packages.Title" = "Tất cả gói";
 "All_Packages.Cell_Subtitle" = "Xem tất cả các gói từ các nguồn của bạn";
@@ -192,7 +192,7 @@
 "Secondary_Background_Color" = "Màu nền thứ cấp";
 "Label_Color" = "Màu nhãn";
 "Highlight_Color" = "Màu đánh dấu";
-"Seperator_Color" = "Seperator Color";
+"Seperator_Color" = "Màu phân biệt";
 "Header_Color" = "Màu tiêu đề";
 "Banner_Color" = "Màu banner";
 
@@ -236,11 +236,11 @@
 "View_Depiction" = "Xem mô tả";
 
 "Copy_ID" = "Sao chép ID";
-"Canister_Policy" = "Canister Privacy Policy";
-"Download_Analytics" = "Download Analytics";
-"Provided_Canister" = "Provided by Canister";
-"Data_Collected" = "Data collected is used to update the featured page and various recommendation sources.";
-"Change_Later" = "You can always change your choice later.";
-"Whats_Collected" = "What's Collected";
-"Non_Identifying" = "Only package and non-identifying device information is collected.";
-"Privacy_Policy" = "Privacy Policy";
+"Canister_Policy" = "Chính sách quyền riêng tư của Canister";
+"Download_Analytics" = "Phân tích tải xuống";
+"Provided_Canister" = "Cung cấp bởi Canister";
+"Data_Collected" = "Dữ liệu thu thập sẽ được sử dụng để cập nhật trang nổi bật và đề xuất các nguồn phổ biến.";
+"Change_Later" = "Bạn luôn có thể thay đổi lựa chọn của mình.";
+"Whats_Collected" = "Những gì được thu thập";
+"Non_Identifying" = "Chỉ những thông tin về gói và không phụ thuộc vào thiết bị được thu thập.";
+"Privacy_Policy" = "Chính Sách Quyền Riêng Tư";

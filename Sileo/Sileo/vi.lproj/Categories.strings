@@ -8,11 +8,11 @@
  LOCALISATIONS
 */
 
-"No_Category" = "(Không có phân loại)";
+"No_Category" = "(Chưa được phân nhóm)";
 "Tweaks" = "Tinh chỉnh";
 "Themes" = "Chủ đề";
 "Utilities" = "Tiện ích";
-"Applications" = "Các ứng dụng";
+"Applications" = "Ứng dụng";
 "Addons" = "Tiện ích bổ sung";
 "Games" = "Trò chơi";
 "Developer" = "Nhà phát triển";

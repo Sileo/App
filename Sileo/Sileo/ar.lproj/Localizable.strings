@@ -69,7 +69,7 @@
 "Wishlist" = "قائمة الأمنيات";
 
 "No_New_Packages" = "لا توجد حزم جديدة";
-"News_Check_Later" = "لا توجد حزم جديدة مفهرسة حتى الآن. عُدّ في غضون ساعات قليله, ويجب أن تشاهد الحزم تبدأ تظهر هنا كما الحصول على تحديث المستودعات.";
+"News_Check_Later" = "لا توجد حزم جديدة مفهرسة حتى الآن. عُدْ في غضون ساعات قليلة, وسترى الحزم تبدأ في الظهرر هنا بمجرد تحديث المستودعات.";
 
 // Headings for sections in the queue/status popup.
 "Queued_Install_Heading" = "تثبيت";
@@ -77,10 +77,10 @@
 "Queued_Update_Heading" = "تحديث";
 "Download_Errors_Heading" = "أخطاء";
 
-"Installed_Heading" = "المثبتة";
+"Installed_Heading" = "مُثبَّت";
 "Updates_Heading" = "التحديثات";
 "Upgrade_All_Button" = "ترقية الكل";
-"Package_Search.Placeholder" = "ابحث عن الحزم";
+"Package_Search.Placeholder" = "ابحث عن حزم";
 "Sort_Name" = "الاسم";
 "Sort_Date" = "التاريخ";
 "Sort_Install_Size" = "الحجم المثبت";
@@ -178,7 +178,7 @@
 
 "Sileo_Light" = "النمط الفاتح";
 "Sileo_Dark" = "النمط الداكن";
-"Sileo_Adaptive" = "تكيُّف سيلو";
+"Sileo_Adaptive" = "تكيُّف Sileo";
 "System" = "النظام";
 "Theme_Settings" = "إعدادات المظهر";
 
